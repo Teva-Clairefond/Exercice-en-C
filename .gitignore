@@ -1,0 +1,6 @@
+# Fichiers compilés
+*.exe
+*.obj
+
+# Dossier VS Code (optionnel)
+# .vscode/
